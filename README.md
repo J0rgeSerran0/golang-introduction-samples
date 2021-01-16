@@ -85,7 +85,7 @@ You can test your *Go* code in the official web site, or in [*Go Playround* dire
 
 # Samples
 
-> [**Source code here src**](../src/)
+> [**Source code here src**](src/)
 
 # Resources
 
