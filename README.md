@@ -87,7 +87,7 @@ You can test your *Go* code in the official web site, or in [*Go Playround* dire
 
 > [**Source code here src**](src/)
 
-In *play.golang.org*:
+In *Go Playround*:
 
 - [Hello Go-rld](https://play.golang.org/p/krbWvuOZuT7)
 
