@@ -80,14 +80,14 @@ One important thing here
 
 But if you want to run your *Go* code without install anything... you can!
 
-You can test your *Go* code in the official web site, or in [*Go Playround* directly](https://play.golang.org/)
+You can test your *Go* code in the official web site, or in [*Go Playground* directly](https://play.golang.org/)
 
 
 # Samples
 
 > [**Source code here src**](src/)
 
-In *Go Playround*:
+In *Go Playground*:
 
 - [Hello Go-rld](https://play.golang.org/p/krbWvuOZuT7)
 
@@ -97,5 +97,5 @@ In *Go Playround*:
 * [Downloading an expecific version](https://golang.org/dl/)
 * [Go Language Specification](https://golang.org/ref/spec)
 * [Go Packages](https://golang.org/pkg/)
-* [Go Playround](https://play.golang.org/)
+* [Go Playground](https://play.golang.org/)
 * [Go Bridge](https://github.com/gobridge/about-us/blob/master/README.md)
