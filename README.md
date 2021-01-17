@@ -90,6 +90,7 @@ You can test your *Go* code in the official web site, or in [*Go Playground* dir
 In *Go Playground*:
 
 - [Hello Go-rld](https://play.golang.org/p/krbWvuOZuT7)
+- [Go - Variables](https://play.golang.org/p/WQbcgSWHV56)
 
 # Resources
 
