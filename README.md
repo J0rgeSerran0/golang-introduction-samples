@@ -85,7 +85,7 @@ You can test your *Go* code in the official web site, or in [*Go Playground* dir
 
 # Samples
 
-> [**Source code here src**](src/)
+> [**Complete source code here src**](src/)
 
 In *Go Playground*:
 
