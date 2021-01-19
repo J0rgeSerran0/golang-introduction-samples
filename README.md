@@ -91,6 +91,7 @@ In *Go Playground*:
 
 - [Hello Go-rld](https://play.golang.org/p/krbWvuOZuT7)
 - [Go - Variables](https://play.golang.org/p/WQbcgSWHV56)
+- [Go - DataType](https://play.golang.org/p/dYvgXL2mLTV)
 
 # Resources
 
