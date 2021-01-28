@@ -93,6 +93,7 @@ In *Go Playground*:
 - [Go - Variables](https://play.golang.org/p/WQbcgSWHV56)
 - [Go - DataTypes](https://play.golang.org/p/dYvgXL2mLTV)
 - [Go - Constants](https://play.golang.org/p/sGqO55JbWNJ)
+- [Go - Operators](https://play.golang.org/p/5H97epegqTU)
 
 # Resources
 
