@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-    // Boolean
+	// Boolean
 	var isOk bool = true
 	var isKo bool
 	// Operator (&&)
