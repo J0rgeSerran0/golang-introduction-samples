@@ -94,6 +94,7 @@ In *Go Playground*:
 - [Go - DataTypes](https://play.golang.org/p/dYvgXL2mLTV)
 - [Go - Constants](https://play.golang.org/p/sGqO55JbWNJ)
 - [Go - Operators](https://play.golang.org/p/5H97epegqTU)
+- [Go - Arrays](https://play.golang.org/p/n-fv6E88qCz)
 
 # Resources
 
